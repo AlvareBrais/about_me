@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brandamm
-- 👀 I am interested in python and everything that can be done with it
+- 👀 I am interested in python and everything that can be done with it, especially in the field of science and data analysis.
 - 🌱 I’m currently learning python in a bootcamp
 - 💞️ I am interested in collaborating in any project in which I can help
 - 📫 How to reach me, Braispenelas@gmail.com
