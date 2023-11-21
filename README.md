@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Brandamm
+- 👋 Hi, I’m Brais
 - 👀 I am interested in python and everything that can be done with it, especially in the field of science and data analysis.
 - 🌱 I’m currently learning python in a bootcamp
 - 💞️ I am interested in collaborating in any project in which I can help
